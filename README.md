@@ -30,13 +30,6 @@ This example simulates a basic order processing system and demonstrates how to u
    ```bash
    dotnet run
 
-## Links to Tutorials
-
-For more in-depth information, check out the following tutorials on my blog:
-
-- [Getting Started with System.Collections and Immutable Types in C# and .NET – Part 1](https://www.ottorinobruni.com/getting-started-with-system-collections-and-immutable-types-in-csharp-and-dotnet-part-1/)
-
-
 ## Contributions
 
 Contributions are welcome! If you'd like to improve this project, feel free to open a pull request or report an issue.

@@ -9,14 +9,14 @@ It is part of the blog post:
 
 This example simulates a basic order processing system and demonstrates how to use:
 
-### Part 1 (main branch)
+### Part 1 (collections-part1 branch)
 - `List<T>` for storing dynamic collections of orders  
 - `Dictionary<TKey, TValue>` for fast lookups by order ID  
 - `Queue<T>` for processing orders in FIFO order  
 - `Stack<T>` for implementing simple undo logic  
 - `IEnumerable<T>` with LINQ to filter and display data  
 
-### Part 2 (collections-advanced branch)
+### Part 2 (collections-part2 branch)
 - `SortedSet<T>` to maintain ordered, unique product categories  
 - `ImmutableHashSet<T>` to safely represent customer tags  
 - `BlockingCollection<T>` to handle thread-safe order queues (Producer/Consumer)  

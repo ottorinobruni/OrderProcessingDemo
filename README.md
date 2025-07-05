@@ -3,7 +3,9 @@
 This is a simple .NET Console Application that demonstrates how to use core collection types from the `System.Collections` namespace in C#.
 
 It is part of the blog post:  
-👉 [Getting Started with System.Collections and Immutable Types in C# and .NET – Part 1](https://www.ottorinobruni.com/getting-started-with-system-collections-and-immutable-types-in-csharp-and-dotnet-part-1/)
+- [Getting Started with System.Collections and Immutable Types in C# and .NET – Part 1](https://www.ottorinobruni.com/getting-started-with-system-collections-and-immutable-types-in-csharp-and-dotnet-part-1/)
+- [Getting Started with System.Collections and Immutable Types in C# and .NET – Part 2](https://www.ottorinobruni.com/getting-started-with-system-collections-and-immutable-types-in-csharp-and-dotnet-part-2/)
+
 
 ## What It Shows
 
